@@ -32,7 +32,7 @@ section {
     display: inline;
 }
 
-ul>nav {
+nav>ul {
     list-style: none;
 }
 
